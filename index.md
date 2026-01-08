@@ -11,7 +11,7 @@ title: Accueil
 
 > "Je transforme des idées complexes en expériences numériques fluides et esthétiques."
 
-![Profil]({{ site.baseurl }}/assets/images/avatar.png)
+![Profil]({{ site.baseurl }}/assets/images/profil-accuel.jpg)
 
 Créons ensemble le web de demain. Je ne me contente pas de coder, je bâtis des outils qui propulsent votre vision.
 
