@@ -17,6 +17,6 @@ Créons ensemble le web de demain. Je ne me contente pas de coder, je bâtis des
 
 ---
 
-[📂 Voir mes projets]({{ site.baseurl }}/projects.html) &nbsp;&nbsp; | &nbsp;&nbsp; [✉️ Me contacter]({{ site.baseurl }}/contact.html)
+[📂 Voir mes projets]({{ site.baseurl }}/projects/) &nbsp;&nbsp; | &nbsp;&nbsp; [✉️ Me contacter]({{ site.baseurl }}/contact/)
 
 

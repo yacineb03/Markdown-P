@@ -1,6 +1,7 @@
 ---
 layout: post
 title: À propos de moi
+permalink: /about/
 ---
 
 # 🏀 Mon Parcours : Du Terrain au Code
@@ -33,4 +34,4 @@ Mon parcours est fondé sur la discipline et la recherche de performance. Ancien
 
 ---
 
-[Me contacter pour un projet]({{ site.baseurl }}/contact.html)
+[Me contacter pour un projet]({{ site.baseurl }}/contact/)
