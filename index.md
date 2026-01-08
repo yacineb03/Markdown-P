@@ -11,7 +11,9 @@ title: Accueil
 
 > "Je transforme des idées complexes en expériences numériques fluides et esthétiques."
 
-![Profil]({{ site.baseurl }}/assets/images/profil-accuel.jpg)
+<div style="text-align: center;">
+  <img src="{{ site.baseurl }}/assets/images/profil-accuel.jpg" alt="Profil" style="width: 200px; border-radius: 50%; border: 4px solid #6366f1; box-shadow: 0 4px 6px -1px rgba(0, 0, 0, 0.1);">
+</div>
 
 Créons ensemble le web de demain. Je ne me contente pas de coder, je bâtis des outils qui propulsent votre vision.
 
