@@ -13,7 +13,7 @@ permalink: /contact/
 
 - **GitHub :** [github.com/yacineb03](https://github.com/yacineb03)
 
-- **LinkedIn :** [linkedin.com/in/yacine](https://linkedin.com/in/yacine)
+- **LinkedIn :** [https://www.linkedin.com/in/yacine-benbrik-90385a33a/](hhttps://www.linkedin.com/in/yacine-benbrik-90385a33a/)
 
 ---
 
