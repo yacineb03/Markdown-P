@@ -1,0 +1,36 @@
+title: Mon Portfolio
+email: benbrikyacine60@gmail.com
+description: "Développeur Web Passionné à Marseille."
+baseurl: "/portefeuille-Markdown"
+url: "https://yacineb03.github.io"
+show_excerpts: false
+show_read_time: false
+show_tags: false
+
+remote_theme: yousinix/portfolYOU
+
+theme_color: "#6366f1"
+accent_color: "#a855f7"
+background_color: "#ffffff"
+text_color: "#1f2937"
+border_color: "#e5e7eb"
+
+navbar:
+  - title: Accueil
+    url: /index.html
+  - title: Projets
+    url: /projects.html
+  - title: À propos
+    url: /about.html
+  - title: Contact
+    url: /contact.html
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-remote-theme
+
+collections:
+  projects:
+    output: true
+    permalink: /projects/:path/
