@@ -4,16 +4,16 @@ title: Contact
 permalink: /contact/
 ---
 
-# Prêt à décoller ? 🚀
+# Prêt à décoller ?
 
 
-- 📧 **Email :** [benbrikyacine60@gmail.com](benbrikyacine60@gmail.com)
+- **Email :** [benbrikyacine60@gmail.com](benbrikyacine60@gmail.com)
 
-- 📍 **Localisation :** Marseille, France
+- **Localisation :** Marseille, France
 
-- 🐙 **GitHub :** [github.com/yacineb03](https://github.com/yacineb03)
+- **GitHub :** [github.com/yacineb03](https://github.com/yacineb03)
 
-- 💼 **LinkedIn :** [linkedin.com/in/yacine](https://linkedin.com/in/yacine)
+- **LinkedIn :** [linkedin.com/in/yacine](https://linkedin.com/in/yacine)
 
 ---
 

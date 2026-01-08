@@ -6,10 +6,10 @@ category: Automation
 tags: [Node.js, IA, Airbnb]
 ---
 
-### 🚀 Description du Projet
+### Description du Projet
 Solution d'automatisation intelligente pour optimiser la gestion des réservations et l'expérience voyageur pour les hôtes.
 
-### 🛠 Technologies
+### Technologies
 - Node.js
 - Automation
 - Intelligence Artificielle

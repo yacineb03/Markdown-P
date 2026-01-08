@@ -6,10 +6,10 @@ category: E-commerce
 tags: [UI/UX, E-commerce, Design]
 ---
 
-### 🚀 Description du Projet
+### Description du Projet
 Site e-commerce de luxe créé pour une marque de parfumerie orientale premium.
 
-### 🛠 Technologies
+### Technologies
 - Design Luxe
 - E-commerce
 - UI/UX
