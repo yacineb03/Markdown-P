@@ -4,7 +4,7 @@ title: Mes Projets
 permalink: /projects/
 ---
 
-Chaque projet est le fruit d'une recherche de performance et d'efficacité.
+Chaque projet est une opportunité d’apprendre et d’améliorer l’efficacité de ce que je construis.
 
 ### [AirBot Airbnb]({{ site.baseurl }}/projects/airbot/)
 Solution d'automatisation intelligente pour optimiser la gestion des réservations.

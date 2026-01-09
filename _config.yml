@@ -7,7 +7,7 @@ show_excerpts: false
 show_read_time: false
 show_tags: false
 
-remote_theme: yousinix/portfolYOU
+remote_theme: cotes2020/jekyll-theme-chirpy
 
 theme_color: "#6366f1"
 accent_color: "#a855f7"
