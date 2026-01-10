@@ -4,15 +4,14 @@ title: "Développeur Web & Mentalité de Compétiteur"
 excerpt: "Étudiant à la WebAcademie par Epitech à Marseille. Ancien sportif de haut niveau."
 author_profile: true
 ---
+# Yacine
 
-# Je suis Yacine
+**Étudiant à la WebAcademie by Epitech – Marseille**
 
-**Étudiant à la WebAcademie par Epitech à Marseille.**
+Issu d’un parcours sportif, j’ai développé des habitudes de travail basées sur la régularité, l’engagement et le travail en équipe. Aujourd’hui, j’applique ces qualités à mon apprentissage du développement web.
 
-Ancien sportif de haut niveau, je transpose aujourd'hui la **rigueur**, la **discipline** et le **goût du challenge** du terrain de basket vers le monde du développement web. 
-
-### Ce que je propose
-Je ne me contente pas de coder des sites ; je bâtis des solutions numériques structurées et performantes. Actuellement en pleine montée en compétences sur le stack technologique moderne, je cherche à mettre mon énergie et ma capacité d'apprentissage au service de projets concrets.
+### Objectif
+Actuellement en formation, je consolide mes bases en développement web et je cherche une alternance afin de progresser au contact de projets concrets, tout en apportant mon sérieux, ma motivation et ma capacité à apprendre rapidement.
 
 ***
 

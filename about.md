@@ -6,10 +6,10 @@ permalink: /about/
 
 ## De la Compétition au Code
 
-Mon parcours ne ressemble pas à celui d'un développeur classique. J'ai passé une grande partie de ma vie sur les terrains de basket, atteignant le niveau **Semi-Pro** au club de Marseille. Cette expérience m'a inculqué des valeurs fondamentales que j'applique aujourd'hui dans mon métier de développeur :
+Mon parcours est atypique et ne suit pas un schéma classique. Avant de m’orienter vers le développement, j’ai pratiqué le basketball à un niveau **semi-professionnel** au sein d’un club marseillais. Cette expérience m’a permis de développer des qualités humaines et professionnelles que je mets aujourd’hui à profit dans mon parcours de développeur.
 
-*   **La Discipline** : Savoir s'entraîner dur chaque jour pour maîtriser un geste (ou une technologie).
-*   **L'Esprit d'Équipe** : Comprendre qu'un projet n'avance jamais seul et que la communication est la clé.
+*   **Discipline** : habitude du travail régulier et de la progression sur le long terme, appliquée à l’apprentissage technique.
+*   **Esprit d’équipe** : capacité à travailler en collaboration et à communiquer efficacement au sein d’un projet.
 *   **La Résilience** : Analyser ses échecs pour revenir plus fort.
 
 ---
@@ -18,7 +18,7 @@ Mon parcours ne ressemble pas à celui d'un développeur classique. J'ai passé 
 Je suis actuellement élève à la **WebAcademie par Epitech**. C'est une formation intensive qui privilégie la pratique et l'autonomie. J'y apprends non seulement à coder, mais surtout à "apprendre à apprendre", une compétence essentielle dans un secteur qui évolue sans cesse.
 
 ### Compétences en cours d'acquisition :
-*   **Front-end** : HTML5, CSS3, SCSS, JavaScript (ES6+).
+*   **Front-end** : HTML5, CSS3, Tailwind, JavaScript.
 *   **Back-end** : PHP (bases), logique serveur, gestion des données.
 *   **Outils & Environnements** : Git, GitHub, terminal Linux, pédagogie par projets, méthodologies agiles.
 
