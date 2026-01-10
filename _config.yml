@@ -13,7 +13,7 @@ minimal_mistakes_skin: "dark"
 author:
   name: "Yacine Benbrik"
   avatar: "/assets/images/profil-accuel.jpg"
-  bio: "Étudiant WebAcademie @ Epitech | Marseille"
+  bio: "Étudiant WebAcademie @ Epitech "
   location: "Marseille, France"
   links:
     - label: "GitHub"
@@ -21,7 +21,7 @@ author:
       url: "https://github.com/yacineb03"
     - label: "LinkedIn"
       icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yacine"
+      url: "https://www.linkedin.com/in/yacine-benbrik-90385a33a/"
 
 # Footer plus "charnu"
 footer:
