@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: single
 title: AMINE Parfum
 description: Site e-commerce de luxe créé pour une marque de parfumerie orientale premium.
 category: E-commerce

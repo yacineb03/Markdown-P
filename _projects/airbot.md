@@ -1,5 +1,5 @@
 ---
-layout: project
+layout: single
 title: AirBot Airbnb
 description: Solution d'automatisation intelligente pour optimiser la gestion des réservations.
 category: Automation
