@@ -1,6 +1,6 @@
 ---
 layout: single
-title: "Développeur Web & Mentalité de Compétiteur"
+title: "Développeur Web | Apprentissage rapide et rigueur"
 excerpt: "Étudiant à la WebAcademie par Epitech à Marseille."
 author_profile: true
 ---
