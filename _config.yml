@@ -1,36 +1,56 @@
+# Paramètres du site
 title: Mon Portfolio
 email: benbrikyacine60@gmail.com
 description: "Développeur Web Passionné à Marseille."
-baseurl: "/Markdown-P"
+baseurl: "/Markdown-P" # Le nom de ton dépôt GitHub
 url: "https://yacineb03.github.io"
-show_excerpts: false
-show_read_time: false
-show_tags: false
 
-remote_theme: cotes2020/jekyll-theme-chirpy
+# Thème (Gratuit sous licence MIT)
+remote_theme: mmistakes/minimal-mistakes
+minimal_mistakes_skin: "dark" # Design classe et sombre
 
-theme_color: "#6366f1"
-accent_color: "#a855f7"
-background_color: "#ffffff"
-text_color: "#1f2937"
-border_color: "#e5e7eb"
+# Configuration de l'auteur (S'affiche dans la barre latérale)
+author:
+  name: "Yacine"
+  avatar: "/assets/images/profil-accuel.jpg"
+  bio: "Développeur Web & Compétiteur"
+  location: "Marseille, France"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/yacineb03"
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://linkedin.com/in/yacine"
 
-navbar:
-  - title: Accueil
-    url: /
-  - title: Projets
-    url: /projects/
-  - title: À propos
-    url: /about/
-  - title: Contact
-    url: /contact/
+# Paramètres de lecture
+words_per_minute: 200
 
-plugins:
-  - jekyll-feed
-  - jekyll-seo-tag
-  - jekyll-remote-theme
+# Paramètres par défaut des pages
+defaults:
+  - scope:
+      path: ""
+      type: pages
+    values:
+      layout: single
+      author_profile: true # Affiche ta photo à gauche
+  - scope:
+      path: ""
+      type: projects
+    values:
+      layout: single
+      author_profile: true
 
+# Tes projets
 collections:
   projects:
     output: true
     permalink: /projects/:path/
+
+# Plugins requis
+plugins:
+  - jekyll-paginate
+  - jekyll-sitemap
+  - jekyll-gist
+  - jekyll-feed
+  - jekyll-include-cache
