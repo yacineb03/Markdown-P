@@ -5,7 +5,7 @@ excerpt: "Étudiant à la WebAcademie par Epitech à Marseille. Ancien sportif d
 author_profile: true
 ---
 
-# <i class="fas fa-hand-paper"></i> Je suis Yacine
+# Je suis Yacine
 
 **Étudiant à la WebAcademie par Epitech à Marseille.**
 
@@ -23,5 +23,5 @@ Je ne me contente pas de coder des sites ; je bâtis des solutions numériques s
 
 ***
 
-[<i class="fas fa-folder-open"></i> Découvrir mes réalisations]({{ site.baseurl }}/projects/){: .btn .btn--primary .btn--large}
-[<i class="fas fa-envelope"></i> Me contacter]({{ site.baseurl }}/contact/){: .btn .btn--info .btn--large}
+[Découvrir mes réalisations]({{ site.baseurl }}/projects/){: .btn .btn--primary .btn--large}
+[Me contacter]({{ site.baseurl }}/contact/){: .btn .btn--info .btn--large}

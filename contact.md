@@ -7,8 +7,8 @@ permalink: /contact/
 Vous avez une opportunité de stage, d'alternance, ou simplement une question technique ? Je suis à votre écoute.
 
 ### Coordonnées directes
-*   <i class="fas fa-envelope"></i> **Email :** [benbrikyacine60@gmail.com](mailto:benbrikyacine60@gmail.com)
-*   <i class="fas fa-map-marker-alt"></i> **Localisation :** Marseille, France
+*   **Email :** [benbrikyacine60@gmail.com](mailto:benbrikyacine60@gmail.com)
+*   **Localisation :** Marseille, France
 
 ---
 

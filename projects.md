@@ -8,14 +8,17 @@ Voici une sélection des projets que j'ai réalisés dans le cadre de ma formati
 
 ***
 
-### [<i class="fas fa-gem"></i> Klivio](https://yacineb03.github.io/Klivio-Epitech/)
+### Klivio
 Site vitrine haut de gamme réalisé avec **Tailwind CSS**. Un focus particulier a été mis sur l'esthétique "Neon Luxe" et l'adaptabilité mobile.
+[Voir le site](https://yacineb03.github.io/Klivio-Epitech/){: .btn .btn--primary}
 
-### [<i class="fas fa-brain"></i> Quizz Epitech](https://yacineb03.github.io/Quizz-Epitech/)
+### Quizz Epitech
 Une application interactive pour tester ses connaissances. Ce projet m'a permis de solidifier mes bases en **JavaScript** et en logique applicative.
+[Tester le Quiz](https://yacineb03.github.io/Quizz-Epitech/){: .btn .btn--primary}
 
-### [<i class="fas fa-archive"></i> Ancien Portfolio](https://yacineb03.github.io/Portofolio-Yacine/)
+### Ancien Portfolio
 Ma toute première version de portfolio réalisée. C'est un témoin de mon évolution technique depuis mes débuts à Epitech.
+[Voir l'archive](https://yacineb03.github.io/Portofolio-Yacine/){: .btn .btn--primary}
 
 ***
 
