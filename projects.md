@@ -1,6 +1,6 @@
 ---
-layout: post
-title: Mes Projets
+layout: single
+title: Mes Réalisations
 permalink: /projects/
 ---
 
