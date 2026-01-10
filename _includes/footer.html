@@ -1,20 +1,22 @@
 <div class="page__footer-follow">
   <ul class="social-icons">
     {% if site.data.ui-text[site.locale].follow_label %}
-      <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
+    <li><strong>{{ site.data.ui-text[site.locale].follow_label }}</strong></li>
     {% endif %}
 
     {% if site.footer.links %}
-      {% for link in site.footer.links %}
-        {% if link.label and link.url %}
-          <li><a href="{{ link.url }}" rel="nofollow noopener noreferrer">{% if link.icon %}<i class="{{ link.icon }}" aria-hidden="true"></i> {% endif %}{{ link.label }}</a></li>
-        {% endif %}
-      {% endfor %}
+    {% for link in site.footer.links %}
+    {% if link.label and link.url %}
+    <li><a href="{{ link.url | relative_url }}" rel="nofollow noopener noreferrer">{% if link.icon %}<i
+          class="{{ link.icon }}" aria-hidden="true"></i> {% endif %}{{ link.label }}</a></li>
+    {% endif %}
+    {% endfor %}
     {% endif %}
   </ul>
 </div>
 
 <div class="page__footer-copyright">
-  &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}. 
-  Propulsé par <a href="https://commonmark.org/" rel="nofollow">Markdown</a> & <a href="https://jekyllrb.com" rel="nofollow">Jekyll</a>.
+  &copy; {{ site.time | date: '%Y' }} {{ site.author.name }}.
+  Propulsé par <a href="https://commonmark.org/" rel="nofollow">Markdown</a> & <a href="https://jekyllrb.com"
+    rel="nofollow">Jekyll</a>.
 </div>
