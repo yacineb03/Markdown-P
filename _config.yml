@@ -13,33 +13,26 @@ minimal_mistakes_skin: "dark"
 author:
   name: "Yacine Benbrik"
   avatar: "/assets/images/profil-accuel.jpg"
-  bio: "Étudiant WebAcademie @ Epitech "
+  bio: "Étudiant WebAcademie @ Epitech | Marseille"
   location: "Marseille, France"
   links:
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
       url: "https://github.com/yacineb03"
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yacine-benbrik-90385a33a/"
 
 # Footer plus "charnu"
 footer:
   links:
     - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
       url: "https://www.linkedin.com/in/yacine-benbrik-90385a33a/"
     - label: "GitHub"
-      icon: "fab fa-fw fa-github"
       url: "https://github.com/yacineb03"
     - label: "Projets"
-      icon: "fas fa-fw fa-code"
       url: "/projects/"
     - label: "Contact"
-      icon: "fas fa-fw fa-envelope"
       url: "/contact/"
     - label: "À propos"
-      icon: "fas fa-fw fa-user"
       url: "/about/"
 
 # Paramètres de lecture (Désactivés pour éviter les textes parasites)
@@ -57,11 +50,11 @@ defaults:
     values:
       layout: single
       author_profile: true
-      share: false      # Supprime les boutons de partage parasites
-      related: false    # Supprime les articles liés
-      comments: false   # Supprime la section commentaires
-      read_time: false  # Supprime le "temps de lecture"
-      show_date: false  # Supprime la date de mise à jour
+      share: false
+      related: false
+      comments: false
+      read_time: false
+      show_date: false
   - scope:
       path: ""
       type: projects
