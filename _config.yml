@@ -13,7 +13,7 @@ minimal_mistakes_skin: "dark"
 author:
   name: "Yacine Benbrik"
   avatar: "/assets/images/profil-accuel.jpg"
-  bio: "Étudiant WebAcademie @ Epitech | Marseille"
+  bio: "Étudiant WebAcademie @ Epitech"
   location: "Marseille, France"
   links:
     - label: "GitHub"
