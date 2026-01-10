@@ -15,16 +15,16 @@ Mon parcours est atypique et ne suit pas un schéma classique. Avant de m’orie
 ---
 
 ## Formation
-Je suis actuellement élève à la **WebAcademie par Epitech**. C'est une formation intensive qui privilégie la pratique et l'autonomie. J'y apprends non seulement à coder, mais surtout à "apprendre à apprendre", une compétence essentielle dans un secteur qui évolue sans cesse.
+Il s’agit d’une formation intensive à la **WebAcademy by Epitech à Marseille**, orientée pratique et autonomie. J’y développe mes compétences techniques tout en renforçant ma capacité d’adaptation et d’auto-apprentissage, des qualités indispensables dans le domaine du numérique.
 
 ### Compétences en cours d'acquisition :
-*   **Web Fondamentaux** : HTML5, CSS3, SCSS.
-*   **Programmation** : JavaScript (ES6+), PHP.
-*   **Outils & Méthodes** : Git, GitHub, terminaux Linux, méthodologies agiles.
-
+*   **Front-end** : HTML5, CSS3, SCSS, JavaScript (ES6+).  
+*   **Back-end** : PHP (bases), logique serveur, gestion des données.
+*   **Outils & Environnements** : Git, GitHub, terminal Linux, pédagogie par projets, méthodologies agiles.
 ---
 
 ## Ma Démarche
-Je ne cherche pas à vendre des solutions miracles. Ma démarche est celle d'un artisan : passionné, rigoureux et honnête sur ses compétences. Mon objectif est d'intégrer une équipe où je pourrai continuer à apprendre tout en apportant ma force de travail et mon regard neuf sur les problématiques techniques.
+Ma démarche est celle d’un artisan : passionné, rigoureux et honnête sur mes compétences. Je souhaite rejoindre une équipe où je pourrai continuer à apprendre tout en apportant mon énergie et un regard neuf sur les défis techniques.
+
 
 [Discutons de votre projet]({{ site.baseurl }}/contact/){: .btn .btn--primary}
