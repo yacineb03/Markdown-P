@@ -4,18 +4,19 @@ title: Mes Réalisations
 permalink: /projects/
 ---
 
-Chaque projet est une opportunité d’apprendre et d’améliorer l’efficacité de ce que je construis.
+Voici une sélection des projets que j'ai réalisés dans le cadre de ma formation à Epitech. Chaque projet a été l'occasion de relever de nouveaux défis techniques.
 
-### [AirBot Airbnb]({{ site.baseurl }}/projects/airbot/)
-Solution d'automatisation intelligente pour optimiser la gestion des réservations.
-*Technos : Node.js, IA*
+***
 
----
+### [💎 Klivio](https://yacineb03.github.io/Klivio-Epitech/)
+Site vitrine haut de gamme réalisé avec **Tailwind CSS**. Un focus particulier a été mis sur l'esthétique "Neon Luxe" et l'adaptabilité mobile.
 
-### [AMINE Parfum]({{ site.baseurl }}/projects/amine-parfum/)
-Site e-commerce de luxe pour une marque de parfumerie orientale premium.
-*Technos : UI/UX, E-commerce*
+### [🧠 Quizz Epitech](https://yacineb03.github.io/Quizz-Epitech/)
+Une application interactive pour tester ses connaissances. Ce projet m'a permis de solidifier mes bases en **JavaScript** et en logique applicative.
 
----
+### [📁 Ancien Portfolio](https://yacineb03.github.io/Portofolio-Yacine/)
+Ma toute première version de portfolio réalisée. C'est un témoin de mon évolution technique depuis mes débuts à Epitech.
 
-[Retour à l'accueil]({{ site.baseurl }}/)
+***
+
+[Retour à l'accueil]({{ site.baseurl }}/){: .btn .btn--info}
