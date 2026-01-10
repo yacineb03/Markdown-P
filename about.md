@@ -21,6 +21,8 @@ Il s’agit d’une formation intensive à la **WebAcademy by Epitech à Marseil
 *   **Front-end** : HTML5, CSS3, SCSS, JavaScript (ES6+).  
 *   **Back-end** : PHP (bases), logique serveur, gestion des données.
 *   **Outils & Environnements** : Git, GitHub, terminal Linux, pédagogie par projets, méthodologies agiles.
+
+
 ---
 
 ## Ma Démarche

@@ -9,6 +9,7 @@ url: "https://yacineb03.github.io"
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 
+
 # Configuration de l'auteur
 author:
   name: "Yacine Benbrik"
