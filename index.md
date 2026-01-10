@@ -4,23 +4,24 @@ title: "Développeur Web & Mentalité de Compétiteur"
 excerpt: "Étudiant à la WebAcademie par Epitech à Marseille. Ancien sportif de haut niveau."
 author_profile: true
 ---
-# Yacine
 
-**Étudiant à la WebAcademie by Epitech – Marseille**
+# <i class="fas fa-hand-paper"></i> Je suis Yacine
 
-Issu d’un parcours sportif, j’ai développé des habitudes de travail basées sur la régularité, l’engagement et le travail en équipe. Aujourd’hui, j’applique ces qualités à mon apprentissage du développement web.
+**Étudiant à la WebAcademie par Epitech à Marseille.**
 
-### Objectif
-Actuellement en formation, je consolide mes bases en développement web et je cherche une alternance afin de progresser au contact de projets concrets, tout en apportant mon sérieux, ma motivation et ma capacité à apprendre rapidement.
+Ancien sportif de haut niveau, je transpose aujourd'hui la **rigueur**, la **discipline** et le **goût du challenge** du terrain de basket vers le monde du développement web. 
+
+### <i class="fas fa-rocket"></i> Ce que je propose
+Je ne me contente pas de coder des sites ; je bâtis des solutions numériques structurées et performantes. Actuellement en pleine montée en compétences sur le stack technologique moderne, je cherche à mettre mon énergie et ma capacité d'apprentissage au service de projets concrets.
 
 ***
 
-### Mon Focus actuel
+### <i class="fas fa-tools"></i> Mon Focus actuel
 *   **Frontend :** Créer des interfaces fluides et réactives (React, JavaScript).
 *   **Backend :** Structurer des bases de données et des API robustes (PHP, MySQL).
 *   **Soft Skills :** Esprit d'équipe, adaptabilité et une insatiable curiosité technique.
 
 ***
 
-[Découvrir mes réalisations]({{ site.baseurl }}/projects/){: .btn .btn--primary .btn--large}
-[Me contacter]({{ site.baseurl }}/contact/){: .btn .btn--info .btn--large}
+[<i class="fas fa-folder-open"></i> Découvrir mes réalisations]({{ site.baseurl }}/projects/){: .btn .btn--primary .btn--large}
+[<i class="fas fa-envelope"></i> Me contacter]({{ site.baseurl }}/contact/){: .btn .btn--info .btn--large}

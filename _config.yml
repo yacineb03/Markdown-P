@@ -26,17 +26,25 @@ author:
 # Footer plus "charnu"
 footer:
   links:
+    - label: "LinkedIn"
+      icon: "fab fa-fw fa-linkedin"
+      url: "https://www.linkedin.com/in/yacine-benbrik-90385a33a/"
     - label: "GitHub"
       icon: "fab fa-fw fa-github"
       url: "https://github.com/yacineb03"
-    - label: "LinkedIn"
-      icon: "fab fa-fw fa-linkedin"
-      url: "https://linkedin.com/in/yacine"
+    - label: "Projets"
+      icon: "fas fa-fw fa-code"
+      url: "/projects/"
     - label: "Contact"
       icon: "fas fa-fw fa-envelope"
       url: "/contact/"
+    - label: "À propos"
+      icon: "fas fa-fw fa-user"
+      url: "/about/"
 
 # Paramètres de lecture (Désactivés pour éviter les textes parasites)
+atom_feed:
+  hide: true
 show_downloads: false
 show_date: false
 words_per_minute: 200
