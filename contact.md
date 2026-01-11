@@ -12,18 +12,12 @@ Vous avez une opportunité de stage, d'alternance, ou simplement une question te
 
 ***
 
-### Formulaire de contact rapide
-*Le formulaire ci-dessous me transmettra votre message instantanément.*
+### Formulaire de contact
+Pour m'envoyer un message structuré, vous pouvez utiliser le formulaire en ligne sécurisé ci-dessous. C'est rapide et gratuit.
 
-<form action="https://formspree.io/f/TON_ID_ICI" method="POST">
-  <label>Votre adresse email</label>
-  <input type="email" name="email" placeholder="email@exemple.com" required style="width: 100%; margin-bottom: 20px;">
-  
-  <label>Votre message</label>
-  <textarea name="message" placeholder="Dites-moi tout..." rows="5" required style="width: 100%; margin-bottom: 20px;"></textarea>
-  
-  <button type="submit" class="btn btn--primary btn--large">Envoyer le message</button>
-</form>
+[Accéder au formulaire de contact](https://formspree.io/f/TON_ID_ICI){: .btn .btn--primary .btn--large}
+
+*Note : Une fois sur la page, il vous suffira de taper votre message et de cliquer sur envoyer.*
 
 ***
 
