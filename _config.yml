@@ -4,7 +4,7 @@ email: benbrikyacine60@gmail.com
 description: "Étudiant à la WebAcademie par Epitech. Passionné par le développement web et la performance."
 baseurl: "/Markdown-P"
 url: "https://yacineb03.github.io"
-formspree_id: "TON_ID_ICI" # Remplace par ton ID Formspree (ex: mqkvjyqz)
+
 
 # Thème
 remote_theme: mmistakes/minimal-mistakes
