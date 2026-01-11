@@ -1,4 +1,3 @@
-# Paramètres du site
 title: Yacine | Développeur Web
 email: benbrikyacine60@gmail.com
 description: "Étudiant à la WebAcademie par Epitech. Passionné par le développement web et la performance."
@@ -6,12 +5,10 @@ baseurl: "/Markdown-P"
 url: "https://yacineb03.github.io"
 
 
-# Thème
 remote_theme: mmistakes/minimal-mistakes
 minimal_mistakes_skin: "dark"
 
 
-# Configuration de l'auteur
 author:
   name: "Yacine Benbrik"
   avatar: "/assets/images/profil-accuel.jpg"
@@ -23,7 +20,6 @@ author:
     - label: "LinkedIn"
       url: "https://www.linkedin.com/in/yacine-benbrik-90385a33a/"
 
-# Footer plus "charnu"
 footer:
   links:
     - label: "LinkedIn"
@@ -37,14 +33,12 @@ footer:
     - label: "À propos"
       url: "/about/"
 
-# Paramètres de lecture (Désactivés pour éviter les textes parasites)
 atom_feed:
   hide: true
 show_downloads: false
 show_date: false
 words_per_minute: 200
 
-# Paramètres par défaut des pages
 defaults:
   - scope:
       path: ""
@@ -66,13 +60,11 @@ defaults:
       read_time: false
       show_date: false
 
-# Tes projets
 collections:
   projects:
     output: true
     permalink: /projects/:path/
 
-# Plugins
 plugins:
   - jekyll-remote-theme
   - jekyll-paginate
