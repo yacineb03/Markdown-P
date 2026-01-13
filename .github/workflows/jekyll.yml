@@ -18,8 +18,8 @@ jobs:
       - name: Setup Ruby
         uses: ruby/setup-ruby@v1
         with:
-          ruby-version: '3.1' # Version stable recommandée pour Jekyll
-          bundler-cache: true # Correction du nom (bundler-cache au lieu de bundle-cache)
+          ruby-version: '3.1'
+          bundler-cache: true
       - name: Build with Jekyll
         run: bundle exec jekyll build
         env:
