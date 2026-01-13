@@ -16,12 +16,9 @@ Vous avez une opportunité de stage, d'alternance, ou simplement une question te
 *   **LinkedIn :** [linkedin.com/in/yacine-benbrik](https://www.linkedin.com/in/yacine-benbrik-90385a33a/)
 *   **GitHub :** [github.com/yacineb03](https://github.com/yacineb03)
 
-
 ***
 
 ### Me contacter directement
-<form action="https://formspree.io/f/TON_ID_ICI" method="POST">
-  <input type="email" name="email" placeholder="Votre email" required>
-  <textarea name="message" placeholder="Votre message" required></textarea>
-  <button type="submit">Envoyer</button>
-</form>
+Pour m'envoyer un message, vous pouvez utiliser le formulaire sécurisé ci-dessous :
+
+[Accéder au formulaire de contact](https://forms.office.com/Pages/ResponsePage.aspx?id=yrQckGK4KUCTBuXND22fhs2stzh1PbRBqf-71CSo-M9UMUQ3OEVDSFRLTjM0SDE1VUtURk1VNVBYOC4u){: .btn .btn--primary .btn--large}
